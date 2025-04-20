@@ -1,0 +1,13 @@
+
+    Heart Disease Prediction Result:
+
+    Age: 45
+    Sex: 0
+    Chest Pain Type: 0
+    Resting Blood Pressure: 0.0
+    Max Heart Rate: 0.0
+    Exercise Induced Angina: 0
+    Oldpeak: 0.0
+    Slope of the peak exercise ST segmen: 0
+    Result: 1
+    
